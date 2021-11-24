@@ -12,6 +12,8 @@ DataBase(JSON)
 ![Screenshot](https://github.com/Takela/pjrabotai2/blob/master/app/src/3.png?raw=true)
 
 (Добавил user)Код:
+
+
 package com.example.pjrabotai2;
 
 public class User {
@@ -61,6 +63,8 @@ public class User {
 }
 
 JSONHelper :
+
+
 package com.example.pjrabotai2;
 
 import android.content.Context;
